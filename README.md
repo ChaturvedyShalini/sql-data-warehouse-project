@@ -123,24 +123,6 @@ data-warehouse-project
 
 ## 👩‍💻 About Me
 
-Hi, I’m **Shalini Chaturvedy**.
-
-I am a **Computer Science Engineering graduate** with a strong interest in **Data Analytics, Business Intelligence, and Machine Learning**.
-
-### **Skills**
-
-- **SQL**
-- **Python**
-- **Power BI**
-- **Machine Learning**
-- **Data Analysis and Visualization**
-
-### **Experience**
-
-I completed a **Machine Learning Internship at Codveda Technologies**, where I worked on machine learning models and data analysis tasks.
-
-I also developed a project titled **Crime Rate Prediction System Using Machine Learning**.
-
-I am currently seeking opportunities in **Data Analytics, Business Intelligence, and data-related roles** where I can apply my analytical and problem-solving skills.
+Hi, I’m **Shalini Chaturvedy**, a Computer Science Engineering graduate with a strong interest in **Data Analytics and Business Intelligence**, and experience working with **SQL, Python, and Power BI**.
 
 ---
